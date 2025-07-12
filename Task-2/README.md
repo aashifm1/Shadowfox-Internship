@@ -1,4 +1,4 @@
-## Level-2 Task
+# Level-2 Task
 
 ### 1) A file is encrypted using Veracrypt (A disk encryption tool). The password to access the file is encrypted in a hash format and provided to you in the drive with the name encoded.txt. Decode the password and enter in the vera crypt to unlock the file and find the secret code in it. The veracrypt setup file will be provided to you. 
 

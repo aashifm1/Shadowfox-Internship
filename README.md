@@ -1,7 +1,7 @@
 # Cyber-Security Internship
 ### Comapny: Shadowfox
 ### Duration: 1 Month (01/07/2025 - 01/08/2025)
-### Mentor: Manasa.G.V ( +91 96009 28944 / manasa@shadowfox.in )
+### Mentor: Manasa.G.V
 
 ## Tasks
 ### Level-1

@@ -1,7 +1,8 @@
-# Cyber-Security Internship
-### Comapny: Shadowfox
+# Shadowfox Internship
+### Domain: Cybersecurity
 ### Duration: 1 Month (01/07/2025 - 01/08/2025)
-### Mentor: Manasa.G.V
+
+> All the vulnerability testing are done in controlled environment. This is for educational purposes only.
 
 ## Tasks
 ### Level-1
